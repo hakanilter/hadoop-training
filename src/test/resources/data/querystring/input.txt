@@ -1,0 +1,12 @@
+exchange=NYSE&stock_symbol=ASP&date=2001-12-31&stock_price_open=12.55&stock_price_high=12.8&stock_price_low=12.42&stock_price_close=12.8&stock_volume=11300&stock_price_adj_close=6.91
+exchange=NYSE&stock_symbol=ASP&date=2001-12-28&stock_price_open=12.5&stock_price_high=12.55&stock_price_low=12.42&stock_price_close=12.55&stock_volume=4800&stock_price_adj_close=6.78
+exchange=NYSE&stock_symbol=ASP&date=2001-12-27&stock_price_open=12.59&stock_price_high=12.59&stock_price_low=12.5&stock_price_close=12.57&stock_volume=5400&stock_price_adj_close=6.79
+exchange=NYSE&stock_symbol=ASP&date=2001-12-26&stock_price_open=12.45&stock_price_high=12.6&stock_price_low=12.45&stock_price_close=12.55&stock_volume=5400&stock_price_adj_close=6.78
+exchange=NYSE&stock_symbol=ASP&date=2001-12-24&stock_price_open=12.61&stock_price_high=12.61&stock_price_low=12.61&stock_price_close=12.61&stock_volume=1400&stock_price_adj_close=6.76
+exchange=NYSE&stock_symbol=ASP&date=2001-12-21&stock_price_open=12.4&stock_price_high=12.78&stock_price_low=12.4&stock_price_close=12.6&stock_volume=18200&stock_price_adj_close=6.75
+exchange=NYSE&stock_symbol=ASP&date=2001-12-20&stock_price_open=12.35&stock_price_high=12.58&stock_price_low=12.35&stock_price_close=12.4&stock_volume=4200&stock_price_adj_close=6.65
+exchange=NYSE&stock_symbol=ASP&date=2001-12-19&stock_price_open=12.42&stock_price_high=12.6&stock_price_low=12.35&stock_price_close=12.6&stock_volume=10100&stock_price_adj_close=6.75
+exchange=NYSE&stock_symbol=ASP&date=2001-12-18&stock_price_open=12.37&stock_price_high=12.5&stock_price_low=12.37&stock_price_close=12.41&stock_volume=10100&stock_price_adj_close=6.65
+exchange=NYSE&stock_symbol=ASP&date=2001-12-17&stock_price_open=12.4&stock_price_high=12.52&stock_price_low=12.4&stock_price_close=12.52&stock_volume=8000&stock_price_adj_close=6.71
+exchange=NYSE&stock_symbol=ASP&date=2001-12-14&stock_price_open=12.54&stock_price_high=12.54&stock_price_low=12.32&stock_price_close=12.4&stock_volume=283000&stock_price_adj_close=6.65
+exchange=NYSE&stock_symbol=ASP&date=2001-12-13&stock_price_open=12.4&stock_price_high=12.55&stock_price_low=12.4&stock_price_close=12.54&stock_volume=13700&stock_price_adj_close=6.72
